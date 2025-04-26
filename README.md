@@ -64,17 +64,25 @@ Built using **PHP**, **MySQL**, **HTML**, **CSS**, and **Bootstrap**.
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](https://github.com/OmAdsul/Traffic-offense-platform/blob/05b14afe7cf92ee3641aa6045581bd1d2959dc04/homepage.png)
+![Homepage](https://github.com/OmAdsul/Smart_Society/blob/3b8b3e6b446f7b2da6de39c2d0c6e2cdb3d53be7/Screenshots/homepage.png)
 
 ### 🧑‍💼 Admin Dashboard
-![Admin Dashboard1](https://github.com/OmAdsul/Traffic-offense-platform/blob/8ad323fad6e365e576a11b5f3fdd23e5db15713b/admin_dashboard1.png)
-![Admin Dashboard2](https://github.com/OmAdsul/Traffic-offense-platform/blob/8ad323fad6e365e576a11b5f3fdd23e5db15713b/admin_dashboard2.png)
+![Admin Dashboard1](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/admin1.png)
+![Admin Dashboard2](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/admin2.png)
+![Admin Dashboard3](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/admin3.png)
+![Admin Dashboard4](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/admin4.png)
 
 ### 👮 Watchman Dashboard
-![Watchaman1](https://github.com/OmAdsul/Traffic-offense-platform/blob/8ad323fad6e365e576a11b5f3fdd23e5db15713b/traffic_police_dashboard.png)
+![Watchaman1](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/watchman1.png)
+![Watchaman2](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/watchman2.png)
+![Watchaman3](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/watchman3.png)
+![Watchaman4](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/watchman4.png)
 
 ### 👨User Dashboard
-![User Dashboard](https://github.com/OmAdsul/Traffic-offense-platform/blob/8ad323fad6e365e576a11b5f3fdd23e5db15713b/user_dashboard.png)
+![User Dashboard1](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/user1.png)
+![User Dashboard2](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/user2.png)
+![User Dashboard3](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/user3.png)
+![User Dashboard4](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/user4.png)
 
 ---
 
