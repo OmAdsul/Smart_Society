@@ -73,10 +73,9 @@ Built using **PHP**, **MySQL**, **HTML**, **CSS**, and **Bootstrap**.
 ![Admin Dashboard4](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/admin4.png)
 
 ### 👮 Watchman Dashboard
-![Watchaman1](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/watchman1.png)
-![Watchaman2](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/watchman2.png)
-![Watchaman3](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/watchman3.png)
-![Watchaman4](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/watchman4.png)
+![Watchman1](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/watchman1.png)
+![Watchman2](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/watchman2.png)
+![Watchman3](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/watchman3.png)
 
 ### 👨User Dashboard
 ![User Dashboard1](https://github.com/OmAdsul/Smart_Society/blob/a9d980073e9c73c5a377993cf1e26bf29808d089/Screenshots/user1.png)
